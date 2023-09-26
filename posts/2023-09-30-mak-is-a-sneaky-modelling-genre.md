@@ -5,14 +5,15 @@ date: 2023-09-30
 # Maschinen Krieger is a very sneaking modelling genre
 
 In my last post I started waffling on about [[2023-09-25-are-models-art|whether models are art/what is art]], which was
-prompted as a response to [[Chris Meddings]] post about [the same topic]. And then I sent a couple messages back and
-forth with him on Instagram.
+prompted as a response to [[chris-meddings]] post about [the same
+topic](https://modelphilosopher.com/is-it-art-though/). And then I sent a couple messages back and forth with him on
+Instagram.
 
 In those messages, I was trying to articulate something about sci-fi genres, and [[maschinen-krieger]] in particular,
 that they feel "closer" to art, or that it's easier to get into the kind of creativity that's not just building
 representation models.
 
-I pointed out that [[Max Watanabe]]'s work, even when it's "just" the model, carries a sense of play, like you know that
+I pointed out that [[max-watanabe]]'s work, even when it's "just" the model, carries a sense of play, like you know that
 Max was just fucking around, having fun, and finding out. And that that's lovely.
 
 And I still think that's true, but that's friggin' Max. He's a legend.

@@ -4,7 +4,7 @@ date: 2023-09-25
 
 # Are Models Art?
 
-[[Chris Meddings]] recently published a [blog post titled "Is it Art though?"](https://modelphilosopher.com/is-it-art-though/), which really got me thinking about the questions
+[[chris-meddings]] recently published a [blog post titled "Is it Art though?"](https://modelphilosopher.com/is-it-art-though/), which really got me thinking about the questions
 
 - are models art?
 - wtaf is art?
