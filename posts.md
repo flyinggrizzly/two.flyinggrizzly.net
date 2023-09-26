@@ -1,12 +1,11 @@
 ---
+order: 01
 slug: feed
 feed:
   enable: true
-sidebar:
-  order: 01
 ---
 
-# Blog :: Flying Grizzly [dot] Net
+# Blog
 
 ```query {.timeline}
 path:posts/*
