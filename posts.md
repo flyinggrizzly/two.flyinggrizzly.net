@@ -1,12 +1,14 @@
 ---
+slug: feed
 feed:
   enable: true
 sidebar:
-  order: 100
+  order: 01
 ---
 
-# Flying Grizzly [dot] Net :: Feed
+# Blog :: Flying Grizzly [dot] Net
 
 ```query {.timeline}
 path:posts/*
 ```
+

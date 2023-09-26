@@ -25,4 +25,4 @@ way](https://www.flyinggrizzly.net/2017/01/06/eggs-half-a-dict/), or [cricket fo
 baseball](https://www.flyinggrizzly.net/2017/07/28/cricket-casual-baseball-fan/), that Zaku research piece, art... you
 know, stuff.
 
-If you want to keep up with it, [[feed|you can subscribe to my RSS feed]].
+If you want to keep up with it, [[posts|you can subscribe to my RSS feed]].
