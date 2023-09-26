@@ -19,6 +19,7 @@
           # By default, the 'emanote' flake input is used.
           # package = inputs.emanote.packages.${system}.default;
           sites."default" = {
+            allowBrokenLinks = true;
             layers = [ ./. ];
             layersString = [ "." ];
             # port = 8080;
