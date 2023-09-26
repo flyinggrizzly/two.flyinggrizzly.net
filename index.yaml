@@ -5,7 +5,7 @@ page:
   siteTitle: Flying Grizzly
 
 template:
-  theme: pink
+  theme: blue
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
